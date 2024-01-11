@@ -1,4 +1,4 @@
 - ola, sou o danilo estou começando agora a me aprofundar em progamação
-- estou interassado em c# e java script e desenvolvimento de jogos
-- estou atualmente aprendendo logica de progamaçao
+- estou interassado em c#, java script e desenvolvimento de jogos
+- estou atualmente aprendendo lógica de progamação
 - ja tive alguns projetos de desenvolvimento de jogos no game maker e na unity
