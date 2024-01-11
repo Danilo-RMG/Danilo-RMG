@@ -1,4 +1,5 @@
-- ola, sou o danilo estou começando agora a me aprofundar em progamação
-- estou interassado em c#, java script e desenvolvimento de jogos
-- estou atualmente aprendendo lógica de progamação
-- ja tive alguns projetos de desenvolvimento de jogos no game maker e na unity
+- Hi, I'm Danilo
+- I'm just starting to delve into programming
+- I'm interested in C#, Java script and game development
+- currently learning programming logic
+- I've already had some game development projects in game maker and unity
